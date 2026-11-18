@@ -111,19 +111,8 @@ The program reads and writes the records in these files. Do not change the colum
 - Cancelling an event also cancels its active registrations.
 - Cancelled registrations do not count toward the remaining places.
 
-## 8. Suggested demonstration for the class
 
-1. Start the program and show the main menu.
-2. View the existing events and venues.
-3. Add one attendee.
-4. Create a test event.
-5. Register the attendee for the test event.
-6. View the attendee list and remaining places.
-7. Update the registration payment to Paid.
-8. Show the reports.
-9. Explain that the records are saved in CSV files.
-
-## 9. Project folder
+## 8. Project folder
 
 - `main.py` – main menu and program start
 - `storage.py` – creates, reads and writes CSV files
