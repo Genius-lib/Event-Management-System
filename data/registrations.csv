@@ -1,0 +1,6 @@
+registration_id,attendee_id,event_id,registration_date,fee,payment_status,status
+REG001,ATT001,EVT001,2026-11-10,10.00,Paid,Active
+REG002,ATT002,EVT001,2026-11-11,10.00,Unpaid,Active
+REG003,ATT003,EVT003,2026-11-12,5.00,Paid,Active
+REG004,ATT004,EVT004,2026-11-13,15.00,Unpaid,Active
+REG005,ATT005,EVT007,2026-11-14,0.00,Paid,Active

@@ -1,0 +1,11 @@
+event_id,event_name,event_date,event_time,venue_id,capacity,status
+EVT001,National County Sports Meet - Opening,2026-11-28,10:00,VEN001,25000,Scheduled
+EVT002,Orange 5G Fest,2026-11-22,10:00,VEN001,5000,Scheduled
+EVT003,Liberia National Food Festival (LINFFEST),2026-11-26,10:00,VEN005,250,Scheduled
+EVT004,Monrovia Fest,2026-11-29,10:00,VEN001,7000,Scheduled
+EVT005,MTN Liberia Music Awards,2026-12-05,18:00,VEN008,1200,Scheduled
+EVT006,King Caro Concert - Stay in School,2026-12-04,18:00,VEN006,450,Scheduled
+EVT007,Liberia Book Festival,2026-12-12,09:00,VEN007,200,Scheduled
+EVT008,DRIP FEST,2026-12-18,18:00,VEN009,450,Scheduled
+EVT009,National County Sports Meet - Grand Final,2026-12-27,10:00,VEN001,25000,Scheduled
+EVT010,179th National Flag Day Celebration,2026-08-24,09:00,VEN002,900,Completed
